@@ -73,7 +73,7 @@ public class MyBinarySearchTree {
                 countRight++;
             }
             if(parent.getData() == current.getData()){
-
+                //do nthng
             }
             if(parent.getData() < current.getData()){
                 System.out.println(current.getData());
